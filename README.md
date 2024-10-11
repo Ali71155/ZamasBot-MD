@@ -1,7 +1,7 @@
 ## Zamas - Bot - MD ✨️
 
 - #### `🚩 Clonar El Repositorio`
- Clonar CuriosityBot [Aqui](https://github.com/elias1524/ZamasBot-MD/fork)
+ Clonar ZamasBot [Aqui](https://github.com/elias1524/ZamasBot-MD/fork)
 
 - #### 🚩 Instalacion Manual Por Termux
 > Escribe Estos Comandos Uno Por Uno
